@@ -15,7 +15,7 @@ Tipo do evento: **Online**
 
 Ferramenta de transmissão: **Restream**
 
-Tecnologias e tópicos abordados: **.NET 9, OpenAI, Azure OpenAI, Ollama, Llama, C#, Visual Studio Code**
+Tecnologias e tópicos abordados: **.NET 9, OpenAI, Azure OpenAI, Ollama, Llama, C#, Visual Studio 2022, Visual Studio Code**
 
 GitHub Copilot, Mermaid, Visual Studio Code, GitHub, Documentação de Sistemas, UML, C#, Entity Framework Core, OTP**
 
@@ -34,3 +34,5 @@ Deixo aqui meus agradecimentos ao **Rogério Rodrigues** por todo o apoio para q
 ![Renato palestrando 3](img/a-03.png)
 
 ![Renato palestrando 4](img/a-04.png)
+
+![Divulgação](img/divulgacao.png)
