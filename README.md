@@ -17,8 +17,6 @@ Ferramenta de transmissão: **Restream**
 
 Tecnologias e tópicos abordados: **.NET 9, OpenAI, Azure OpenAI, Ollama, Llama, C#, Visual Studio 2022, Visual Studio Code**
 
-GitHub Copilot, Mermaid, Visual Studio Code, GitHub, Documentação de Sistemas, UML, C#, Entity Framework Core, OTP**
-
 Número de participantes: **32 pessoas (pico de audiência ao longo da live)**
 
 Link do evento: **https://promo.thedevconf.com/sumiapoa-microsoft**
